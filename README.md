@@ -68,6 +68,37 @@ Hi, my name is Francisco Valerio! I am 27 years old and I am a programmer and a 
 
 </p>
 
+<h2 align="center"> Version control 🎛️ </h2>
+
+<p align="center">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-%23ff7f50?style=for-the-badge&logo=Git&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Github-%23191970?style=for-the-badge&logo=GitHub&logoColor=white">
+
+</p>
+
+## I'm currently working on...
+
+Right now, I am working as an external senior advisor for the Instituto Electoral de Estado de Puebla, in the statistics and data science department.
+
+## I'm currently learning on...
+
+Computer vision, Cloud computing & Time Series Analysis
+
+## Reach me out! 📬
+
+💼 [Linkedin](https://www.linkedin.com/in/pkauu15/) 
+
+📧 [E-mail](mailto:trainwerck1979@gmail.com)
+
+### Did you know❓ 
+
+According to Yann Le-Cun:
+
+- LLM: 1E13 tokens x 2 bytes/token = 1E13 bytes.
+- 4 year old child: 16k wake hours x 3600 s/hour x 1E6 optical nerve fibers x 2 eyes x 10 bytes/s = 1E15 bytes.
+In 4 years, a child has seen 50 times more data than the biggest LLMs. Impressive, right? 😆
+
 <!--
 **FranzValerio/FranzValerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
