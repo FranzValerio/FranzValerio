@@ -17,7 +17,7 @@ Hi, my name is Francisco Valerio! I am 27 years old and I am a programmer and a 
 - [Price recommendation system](https://github.com/FranzValerio/Predicci-n-Precios.git)
 - [Marketing campaigns success predictor](https://github.com/FranzValerio/Proyecto-Bola-de-cristal.git) (Winner project for the BEDU Santander Prototype Day 2022)
 - [Stochastic optimal control in epidemiology](https://github.com/FranzValerio/Stochastic-epidemic-control.git)
-- [Decision trees]
+- [Churn detector](https://github.com/FranzValerio/churn-prediction.git)
 
 
 <h2 align="center"> Programming Languages ⌨️ </h2>
