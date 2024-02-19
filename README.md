@@ -1,5 +1,8 @@
 # Hello there, this is Franz 🖖
 
+![GitHub followers](https://img.shields.io/github/followers/FranzValerio?style=for-the-badge&logo=Github)
+
+
 ## About me 😃
 
 Hi, my name is Francisco Valerio! I am 27 years old and I am a programmer and a master in Physics from México 🇲🇽. As a physics & math enthusiast with a strong analytical background (specially in complex systems, stochastic processes, and artificial intelligence models) I'm passionate about applying my skills to solve complex problems using advanced data science and machine learning techniques.
