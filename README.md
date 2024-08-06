@@ -21,6 +21,7 @@ Hi, my name is Francisco Valerio! I am 27 years old and I am a programmer and a 
 - [Marketing campaigns success predictor](https://github.com/FranzValerio/Proyecto-Bola-de-cristal.git) (Winner project for the BEDU Santander Prototype Day 2022)
 - [Stochastic optimal control in epidemiology](https://github.com/FranzValerio/Stochastic-epidemic-control.git)
 - [Churn detector](https://github.com/FranzValerio/churn-prediction.git)
+- [Electoral Time Processing Analysis](https://github.com/FranzValerio/simulacros_prep)
 - [Customer segmentation](https://github.com/FranzValerio/customer-segmentation.git)
 
 
