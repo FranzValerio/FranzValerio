@@ -23,6 +23,7 @@ Hi, my name is Francisco Valerio! I am 27 years old and I am a programmer and a 
 - [Churn detector](https://github.com/FranzValerio/churn-prediction.git)
 - [Electoral Time Processing Analysis](https://github.com/FranzValerio/simulacros_prep)
 - [Customer segmentation](https://github.com/FranzValerio/customer-segmentation.git)
+- [Web Scraping](https://github.com/FranzValerio/GDMTH-Project.git)
 
 
 <h2 align="center"> Programming Languages ⌨️ </h2>
